@@ -23,7 +23,7 @@ int main()
 	memset(&ServerSockADDR, 0, sizeof(SOCKADDR_IN));
 
 	ServerSockADDR.sin_family = PF_INET;
-	ServerSockADDR.sin_addr.s_addr = inet_addr("172.16.5.216");
+	ServerSockADDR.sin_addr.s_addr = inet_addr("127.0.0.1");
 	ServerSockADDR.sin_port = htons(50501);
 
 	int ServerLength = sizeof(ServerSockADDR);

@@ -21,7 +21,7 @@ int main()
 	//set server info
 	memset(&ServerSockADDR, 0, sizeof(SOCKADDR_IN));
 	ServerSockADDR.sin_addr.s_addr = INADDR_ANY;
-	ServerSockADDR.sin_port = htons(50001);
+	ServerSockADDR.sin_port = htons(50501);
 	ServerSockADDR.sin_family = PF_INET;
 
 

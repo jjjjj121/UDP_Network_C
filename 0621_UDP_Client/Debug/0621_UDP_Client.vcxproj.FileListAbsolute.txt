@@ -1,1 +1,2 @@
 C:\JAEM\0621 UDP\0621_UDP_Client\Debug\0621_UDP_Client.exe
+C:\Users\user\OneDrive\바탕 화면\Project\UDP_Network_C\0621_UDP_Client\Debug\0621_UDP_Client.exe
